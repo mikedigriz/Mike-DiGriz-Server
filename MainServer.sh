@@ -1,6 +1,6 @@
 #!/bin/bash
-port_server="25565" #игровой порт сервера
-path_server="/home/digriz/server/" #путь к папке с сервером
+port_server="25565" #server port
+path_server="/home/digriz/server/" #path folder
 count=15
 while [ $count -gt 0 ]
 do
